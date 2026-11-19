@@ -7,7 +7,7 @@ title: "Rishta: Marriage Biodata Maker — Privacy Policy"
 
 **App name:** Rishta: Marriage Biodata Maker (Android package `app.rishta.biodata`)
 **Developer:** CodeOrbit Labs
-**Contact:** er.varunvision@gmail.com
+**Contact:** 108101ras@gmail.com
 **Last updated:** November 20, 2026
 
 
